@@ -1,1 +1,1 @@
-web: gunicorn app:Vef_verkefni1
+web: gunicorn Vef_verkefni1:app
